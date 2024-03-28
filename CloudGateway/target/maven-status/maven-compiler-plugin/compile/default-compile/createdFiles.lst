@@ -1,0 +1,6 @@
+com\dailycodebuffer\CloudGateway\controller\FallbackController.class
+com\dailycodebuffer\CloudGateway\CloudGatewayApplication.class
+com\dailycodebuffer\CloudGateway\model\AuthenticationResponse.class
+com\dailycodebuffer\CloudGateway\controller\AuthenticationController.class
+com\dailycodebuffer\CloudGateway\model\AuthenticationResponse$AuthenticationResponseBuilder.class
+com\dailycodebuffer\CloudGateway\security\OktaOAuth2WebSecurity.class
